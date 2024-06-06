@@ -1,0 +1,24 @@
+{
+  "name": "modbus-tcp-ip-eamms",
+  "version": "1.0.0",
+  "description": "imam project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmokhtar/modbus-tcp-ip-eamms.git"
+  },
+  "keywords": [
+    "modbus",
+    "tcp",
+    "ip"
+  ],
+  "author": "mj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjmokhtar/modbus-tcp-ip-eamms/issues"
+  },
+  "homepage": "https://github.com/mjmokhtar/modbus-tcp-ip-eamms#readme"
+}
